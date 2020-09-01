@@ -5,4 +5,4 @@ I geek out on literature, history, databases and probabilities.
 
 ### Get in touch
 
-- Twitter: https://twitter.com/anu08rag
+- Twitter: https://twitter.com/anu00rag
