@@ -1,5 +1,5 @@
 # Anurag Sharma
-Hi, I'm Anurag -- a software engineer working at [Dgraph Labs](https://dgraph.io/) building a distributed graph database. My work lies at the intersection of concurrency patterns, query latency and graph algorithms. Previously I worked at Goldman Sachs as a quant building pricing models for interest rate derivatives. I live in Bangalore, India. 
+Hi, I'm Anurag -- a software engineer. Until recently, I used to work at [Dgraph Labs](https://dgraph.io/) building a distributed graph database. My work lies at the intersection of concurrency patterns, query latency and graph algorithms. Previously I worked at Goldman Sachs as a quant building pricing models for interest rate derivatives. I live in Delhi, India. 
 
 I geek out on literature, history, databases and probabilities.
 
