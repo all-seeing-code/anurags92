@@ -1,8 +1,14 @@
-# Anurag Sharma
-Hi, I'm Anurag -- a software engineer. I work at [Dgraph Labs](https://dgraph.io/) building a distributed graph database. My work lies at the intersection of concurrency patterns, query latency and graph algorithms. Previously I worked at Goldman Sachs as a quant building pricing models for interest rate derivatives. 
-
-I geek out on literature, history, databases and probabilities.
-
-### Get in touch
-
-- Twitter: https://twitter.com/anu00rag
+Hræzlean wasteland, I am the forefather.
+Mine one eye seeks wisdom's crevices.
+My ravens whispers secrets wisdom brings.
+Heed my word, mortal, if thee wishes knows:
+Work hard, fight brave, think smart, speak true,
+And someday thee shall see what now lies unseen.
+Pay price of sacrifice, suffer paths of pain,
+But rewards of runes await at journey's end.
+Train mind like muscle, hone skills like steel.
+Keep heart like hearth, warming all in gloom.
+Make old foe friend, help weak where can.
+Do right over easy, kindness over wrath.
+Only then may thee grasp Gungir's golden hilt,
+And sit throne where now One Eye sits alone.
